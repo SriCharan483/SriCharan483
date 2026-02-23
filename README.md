@@ -1,33 +1,142 @@
-<h1 align="center">Hi 👋, I'm Charan Mutnuru</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">
+── CHARAN MUTNURU ──
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sricharan483&label=Profile%20views&color=0e75b6&style=flat" alt="sricharan483" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sricharan483" alt="sricharan483" /></a> </p>
-
-- 🔭 I’m currently working on **DSML-AI**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 🤝 I’m looking for help with **Artificial Intelligence**
-
-- 💬 Ask me about **MySql,Python,ML**
-
-- 📫 How to reach me **charanmutnuru0408@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/sricharan04](www.linkedin.com/in/sricharan04)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ri charan mutnuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ri charan mutnuru" height="30" width="40" /></a>
-<a href="https://instagram.com/sri.koundinya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri.koundinya_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Network+Security+%7C+AI+Automation;Designing+Predictive+Infrastructure;Operating+at+the+Fault+Line" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sricharan483&show_icons=true&locale=en&layout=compact" alt="sricharan483" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Analytics-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network-Security-FF0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Automation-6A0DAD?style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sricharan483&show_icons=true&locale=en" alt="sricharan483" /></p>
+
+Every dataset exposes human bias. 
+
+Every network reflects architectural discipline — or the lack of it. 
+
+Every breach was mathematically predictable. 
+
+Automation is not convenience — it is the removal of human weakness. 
+
+📊 Data doesn’t “inform.” It indicts. 
+
+🔐 Security doesn’t “fortify.” It eliminates attack surface. 
+
+⚙️ Automation doesn’t “scale.” It enforces inevitability. 
+
+
+Precision is not talent. 
+
+It is engineered brutality against uncertainty.
+
+
+💡 What I Do
+
+🔹 Deconstruct raw datasets using SQL & Python to model variance, detect behavioral patterns, and convert ambiguity into measurable decision signals
+
+🔹 Engineer hardened enterprise environments using Fortinet & Cisco security architectures, reducing attack surface through segmentation, policy optimization, and least-privilege enforcement
+
+🔹 Design AI-driven automation pipelines using Python, REST APIs, and agent-based workflows to eliminate manual latency and enforce deterministic outcomes
+
+🔹 Perform deep log intelligence, anomaly detection, and baseline deviation analysis to surface risk before operational impact
+
+🔹 Architect scalable Layer 2 / Layer 3 network topologies built on structured VLAN design, routing precision, and controlled traffic flow
+
+
+🛠️ Tech Stack
+
+📊 Data & Analytics
+
+* SQL (Advanced)
+* Python (Pandas, NumPy)
+* Exploratory Data Analysis (EDA)
+* Predictive Modeling
+* Tableau & Power BI
+* Excel (Advanced)
+  
+
+🔐 Network Security
+
+* Fortinet (FortiGate)
+  
+* Cisco Firepower (FTD)
+  
+* Firewall Policy Design
+  
+* IPS / AMP
+  
+* Network Hardening
+  
+* Threat Monitoring
+  
+
+🌐 Networking
+
+* Advanced Switching (Cisco, Aruba)
+  
+* VLAN Architecture
+  
+* BGP Routing
+  
+* VXLAN EVPN
+  
+* STP / RSTP / MSTP
+  
+* TCP/IP & Subnetting
+
+⚙️ Automation & AI
+
+* Python Automation
+  
+* REST APIs & JSON
+  
+* Webhooks
+  
+* Event-Driven Workflows
+  
+* AI Agent Integrations (LLM Fundamentals)
+
+
+📈 Operational Impact
+
+📊 Data & Automation Discipline
+
+✔ Converted operational data into predictive control models using SQL & Python
+
+✔ Eliminated repetitive failure patterns through AI-driven automation pipelines
+
+✔ Transformed logs into measurable behavioral intelligence
+
+✔ Reduced manual dependency through enforced deterministic workflows
+
+🔐 Structural Network Control
+
+✔ Architected high-availability network systems with near-zero disruption tolerance
+
+✔ Reduced exposure vectors through segmentation and firewall minimization
+
+✔ Engineered faster fault isolation through packet-level diagnostics
+
+✔ Optimized traffic flows through structured topology and policy discipline
+
+
+🎯 Current Focus
+
+🔹 Modeling data at scale — precision queries, probabilistic reasoning, and structural data design
+
+🔹 Advancing threat analytics — turning traffic patterns and logs into predictive defense signals
+
+🔹 Building autonomous automation frameworks — reducing latency between detection and action
+
+🔹 Eliminating operational randomness through engineered decision system
+
+
+📫 Connect With Me
+
+📧 [charanmutnuru0408@gmail.com](mailto:charanmutnuru0408@gmail.com)
+
+🔗 LinkedIn: [www.linkedin.com/in/sricharan04](http://www.linkedin.com/in/sricharan04)
